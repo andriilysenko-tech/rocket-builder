@@ -35,7 +35,7 @@
 
 ## `Compile the Builder`
 
-> Tested with `Node 16.x, 18.x`.
+> Tested with `Node 18.x, 20.x`.
  
 ```bash
 $ git clone https://github.com/app-generator/rocket-builder.git
